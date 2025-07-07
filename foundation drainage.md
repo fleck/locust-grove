@@ -17,7 +17,7 @@
     - Lay the non-woven geotextile filter fabric over the top of the aggregate, overlapping all seams by at least 12 inches.
     - The fabric should extend up the foundation wall by at least 12 inches and be temporarily secured. This separates the drainage aggregate from the backfill soil, preventing clogging.
   - Connection to Sump Pit
-    A solid PVC pipe shall be used to connect the high point of the exterior footing drain to one of the knockout inlets on the sump basin. Ensure a watertight seal at the basin penetration.
+    A solid PVC pipe shall be used to connect the high point of the exterior footing drain to one of the knockout inlets on the exterior sump basin. Ensure a watertight seal at the basin penetration.
   - Initial Backfill
     Place an initial 12-inch layer of native soil or approved fill material carefully over the filter fabric to hold it in place. Do not use heavy machinery directly over the drain system. Final backfilling can proceed after inspection approval.
 
@@ -28,24 +28,26 @@
     A trench shall be created around the full interior perimeter of the basement, adjacent to the footing.
   - Pipe Installation
     - Place a 2-inch base of drainage aggregate in the trench.
-    - Install 4-inch perforated PVC pipe (with perforations down) on the aggregate base, maintaining a positive slope towards the sump basin.
-    - Connect the pipe into a continuous loop and run a solid pipe from the loop to the sump basin, ensuring a watertight connection.
+    - Install 4-inch perforated PVC pipe (with perforations down) on the aggregate base, maintaining a positive slope towards the interior sump basin.
+    - Connect the pipe into a continuous loop and run a solid pipe from the loop to the interior sump basin, ensuring a watertight connection.
   - Aggregate & Vapor Barrier
     - Backfill the trench completely with drainage aggregate, leveling it with the surrounding sub-base.
     - A layer of filter fabric may be placed over the aggregate trench as an optional, additional protective measure.
     - The basement vapor barrier shall be installed over the entire sub-base, including the top of the interior drain trench.
 
 ## Sump Pump & Discharge System
-  - Sump Basin Installation
-    The sump basin shall be set in a pit with its top flush with the finished concrete slab. The bottom of the pit should have several inches of drainage aggregate for a stable base.
+  - Interior Sump Basin Installation
+    The interior sump basin shall be set in a pit with its top flush with the finished concrete slab. The bottom of the pit should have several inches of drainage aggregate for a stable base.
+  - Exterior Sump Basin Installation
+    The exterior sump basin shall be installed outside the foundation at a depth that allows proper drainage from the exterior footing drains. The basin should be accessible for maintenance and positioned to facilitate proper discharge routing.
   - Discharge Piping
-    - Install the sump pump within the basin according to the manufacturer's specifications.
-    - The discharge pipe shall be 1.5-inch Schedule 40 PVC. A check valve must be installed on the discharge line to prevent backflow.
-    - The discharge line shall be routed to the exterior and must terminate a minimum of 10 feet away from the foundation.
+    - Install sump pumps within both basins according to the manufacturer's specifications.
+    - The discharge pipes shall be 1.5-inch Schedule 40 PVC. Check valves must be installed on both discharge lines to prevent backflow.
+    - The discharge lines shall be routed to the exterior and must terminate a minimum of 10 feet away from the foundation.
   - Discharge Location
     Per Springettsbury Township ordinance § 281-29, discharge shall be directed to a vegetated area, a dry well, or other approved infiltration system. Under no circumstances shall the foundation drain system be connected to the sanitary sewer. The termination point must not cause erosion or discharge onto neighboring properties, sidewalks, or driveways.
   - Final Connections
-    Ensure the sump pump is connected to a dedicated GFCI-protected electrical outlet. Test the system by filling the basin with water to verify the automatic float switch and pump are operating correctly.
+    Ensure both sump pumps are connected to dedicated GFCI-protected electrical outlets. Test both systems by filling the basins with water to verify the automatic float switches and pumps are operating correctly.
 
 ## Materials
   - Perforated Pipe
@@ -60,5 +62,5 @@
     Spun-polyester or similar filter "sock" designed to fit over 4-inch perforated pipe.
   - Dampproofing/Waterproofing
     As per architectural plans. At a minimum, foundation walls shall be dampproofed. A trowel-applied or spray-on waterproofing membrane is highly recommended.
-  - Sump Basin & Pump
-    A 24-inch diameter, sealed sump basin with a solid, lockable cover. Sump pump shall be a minimum 1/3 HP submersible cast-iron model with an automatic float switch.
+  - Sump Basins & Pumps
+    Two 24-inch diameter, sealed sump basins with solid, lockable covers (one interior, one exterior). Sump pumps shall be a minimum 1/3 HP submersible cast-iron models with automatic float switches.
