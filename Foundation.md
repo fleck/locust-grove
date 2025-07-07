@@ -11,30 +11,39 @@
 
 ### **Concrete**
 
-* **Compressive Strength:** The minimum allowable compressive strength for all foundation concrete shall be **3,000 psi** at 28 days.  
-* **Concrete Mix:**  
-  * **Cement:** Portland Cement, Type I or II.  
-  * **Maximum Aggregate Size:** 1 inch.  
-  * **Air Entrainment:** 4% \- 6% for concrete exposed to freezing and thawing conditions.
+* **Compressive Strength:** The minimum allowable compressive strength for all foundation concrete shall be **3,000 psi** at 28 days.
+
+#### **Concrete Mix Requirements**
+
+* **Cement:** Portland Cement, Type I or II.  
+* **Maximum Aggregate Size:** 1 inch.  
+* **Air Entrainment:** 4% - 6% for concrete exposed to freezing and thawing conditions.
 
 ---
 
 ### **Reinforcement**
 
-* **Material:** All reinforcing steel shall conform to **ASTM A-615, Grade 60**.  
-* **Splicing:**  
-  * For \#4 reinforcing bars, a minimum overlap of **24 inches** is required for all splices.  
-  * For \#5 reinforcing bars, a minimum overlap of **36 inches** is required for all splices.  
-* **Corner Bars:** Provide a minimum of two (2) \#4 reinforcing bars bent at 90 degrees at all corners of footings and foundation walls to ensure continuity of reinforcement.  
+* **Material:** All reinforcing steel shall conform to **ASTM A-615, Grade 60**.
+
+#### **Splicing Requirements**
+
+* **#4 Reinforcing Bars:** A minimum overlap of **24 inches** is required for all splices.  
+* **#5 Reinforcing Bars:** A minimum overlap of **36 inches** is required for all splices.
+
+#### **Additional Reinforcement Requirements**
+
+* **Corner Bars:** Provide a minimum of two (2) #4 reinforcing bars bent at 90 degrees at all corners of footings and foundation walls to ensure continuity of reinforcement.  
 * **Coverage:** All reinforcing steel shall have a minimum of 3 inches of concrete coverage where concrete is in contact with the earth.
 
 ---
 
 ### **Foundation Walls & Anchorage**
 
-* **Foundation Wall Height:** The top of the foundation walls shall extend a minimum of **6 inches above the adjacent finished grade**.  
-* **Anchor Bolts:**  
-  * **Type:** 1/2-inch diameter steel anchor bolts.  
-  * **Embedment:** A minimum of 7 inches of embedment into the poured concrete foundation is required.  
-  * **Spacing:** Anchor bolts shall be spaced a maximum of **4 feet on-center**.  
-  * **Placement:** Place one anchor bolt within 12 inches of each end of a sill plate section, but no closer than 3.5 inches from the end. A minimum of two (2) anchor bolts are required per individual sill plate section.
+* **Foundation Wall Height:** The top of the foundation walls shall extend a minimum of **6 inches above the adjacent finished grade**.
+
+#### **Anchor Bolt Requirements**
+
+* **Type:** 1/2-inch diameter steel anchor bolts.  
+* **Embedment:** A minimum of 7 inches of embedment into the poured concrete foundation is required.  
+* **Spacing:** Anchor bolts shall be spaced a maximum of **4 feet on-center**.  
+* **Placement:** Place one anchor bolt within 12 inches of each end of a sill plate section, but no closer than 3.5 inches from the end. A minimum of two (2) anchor bolts are required per individual sill plate section.
