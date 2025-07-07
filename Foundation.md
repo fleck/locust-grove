@@ -38,6 +38,3 @@
   * **Embedment:** A minimum of 7 inches of embedment into the poured concrete foundation is required.  
   * **Spacing:** Anchor bolts shall be spaced a maximum of **4 feet on-center**.  
   * **Placement:** Place one anchor bolt within 12 inches of each end of a sill plate section, but no closer than 3.5 inches from the end. A minimum of two (2) anchor bolts are required per individual sill plate section.
-
-## Drainage
-
