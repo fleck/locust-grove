@@ -11,7 +11,7 @@
 
 ### **Concrete**
 
-* **Compressive Strength:** The minimum allowable compressive strength for all foundation concrete shall be **3,000 psi** at 28 days.
+**Compressive Strength:** The minimum allowable compressive strength for all foundation concrete shall be **3,000 psi** at 28 days.
 
 #### **Concrete Mix Requirements**
 
@@ -23,7 +23,7 @@
 
 ### **Reinforcement**
 
-* **Material:** All reinforcing steel shall conform to **ASTM A-615, Grade 60**.
+**Material:** All reinforcing steel shall conform to **ASTM A-615, Grade 60**.
 
 #### **Splicing Requirements**
 
@@ -39,7 +39,7 @@
 
 ### **Foundation Walls & Anchorage**
 
-* **Foundation Wall Height:** The top of the foundation walls shall extend a minimum of **6 inches above the adjacent finished grade**.
+**Foundation Wall Grading:** The top of the foundation walls shall extend a minimum of **6 inches above the adjacent finished grade**.
 
 #### **Anchor Bolt Requirements**
 
