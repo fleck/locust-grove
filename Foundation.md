@@ -41,6 +41,8 @@
 
 **Foundation Wall Grading:** The top of the foundation walls shall extend a minimum of **6 inches above the adjacent finished grade**.
 
+**Garage Slab Elevation:** The top of the garage slab shall be the same as the existing grade on the SW side of the garage.
+
 #### **Anchor Bolt Requirements**
 
 * **Type:** 1/2-inch diameter steel anchor bolts.  
