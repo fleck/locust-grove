@@ -1,5 +1,10 @@
 # Foundation Drainage System Installation
 
+## System Overview
+The foundation drainage system requirements vary by location:
+- **Basement areas**: Shall have both interior and exterior drainage systems installed for comprehensive moisture protection.
+- **Garage areas**: Shall have only the exterior drainage system installed. 
+
 ## Exterior Foundation Drain System Installation
 ### Foundation Preparation
 After foundation footings are poured and cured, and prior to installing the drainage system, apply the specified damp proofing or waterproofing membrane to the exterior foundation walls. Allow membrane to cure as per manufacturer's instructions.
