@@ -2,7 +2,7 @@
 
 ## Exterior Foundation Drain System Installation
 ### Foundation Preparation
-After foundation footings are poured and cured, and prior to installing the drainage system, apply the specified dampproofing or waterproofing membrane to the exterior foundation walls. Allow membrane to cure as per manufacturer's instructions.
+After foundation footings are poured and cured, and prior to installing the drainage system, apply the specified damp proofing or waterproofing membrane to the exterior foundation walls. Allow membrane to cure as per manufacturer's instructions.
 ### Trench Excavation
 The trench for the drainpipe shall be excavated alongside the footing.
 ### Pipe Placement & Slope
