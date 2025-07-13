@@ -71,6 +71,6 @@ Non-woven geotextile filter fabric, rated for soil filtration and drainage appli
 ### Pipe Filter Sock
 Spun-polyester or similar filter "sock" designed to fit over 4-inch perforated pipe.
 ### Damp proofing/Waterproofing
-As per architectural plans. At a minimum, foundation walls shall be damp proofed. A trowel-applied or spray-on waterproofing membrane is highly recommended.
+Foundation walls shall be damp proofed with a trowel-applied or spray-on waterproofing membrane.
 ### Sump Basins & Pumps (Basement Areas Only)
 Two 24-inch diameter, sealed sump basins with solid, lockable covers (one interior, one exterior). Sump pumps shall be a minimum 1/3 HP submersible cast-iron models with automatic float switches.
