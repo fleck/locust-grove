@@ -53,7 +53,7 @@ The exterior sump basin shall be installed outside the foundation at a depth tha
 - The discharge pipes shall be 2-inch Schedule 40 PVC. Check valves must be installed on both discharge lines to prevent backflow.
 - The discharge lines shall be routed to the exterior and must terminate a minimum of 10 feet away from the foundation.
 ### Discharge Location
-Per Springettsbury Township ordinance § 281-29, discharge shall be directed to a vegetated area, a dry well, or other approved infiltration system. Under no circumstances shall the foundation drain system be connected to the sanitary sewer. The termination point must not cause erosion or discharge onto neighboring properties, sidewalks, or driveways.
+Per Springettsbury Township ordinance § 281-29, discharge shall be directed to SWM pond.
 
 Note: For garage areas with direct daylight discharge, the same discharge location requirements apply, but no sump pump system is required.
 ### Final Connections (Basement Areas Only)
