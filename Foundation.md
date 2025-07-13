@@ -43,6 +43,8 @@
 
 **Garage Slab Elevation:** The top of the garage slab shall be the same as the existing grade on the SW side of the garage.
 
+**Basement Slab Elevation:** The basement slab is **75 3/4 inches lower** than the garage slab.
+
 #### **Anchor Bolt Requirements**
 
 * **Type:** 1/2-inch diameter steel anchor bolts.  
