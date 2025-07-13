@@ -47,7 +47,7 @@ The interior sump basin shall be set in a pit with its top flush with the finish
 The exterior sump basin shall be installed outside the foundation at a depth that allows proper drainage from the exterior footing drains. The basin should be accessible for maintenance and positioned on the North East side of the basement to facilitate proper discharge routing.
 ### Discharge Piping
 - Install sump pumps within both basins according to the manufacturer's specifications.
-- The discharge pipes shall be 1.5-inch Schedule 40 PVC. Check valves must be installed on both discharge lines to prevent backflow.
+- The discharge pipes shall be 2-inch Schedule 40 PVC. Check valves must be installed on both discharge lines to prevent backflow.
 - The discharge lines shall be routed to the exterior and must terminate a minimum of 10 feet away from the foundation.
 ### Discharge Location
 Per Springettsbury Township ordinance § 281-29, discharge shall be directed to a vegetated area, a dry well, or other approved infiltration system. Under no circumstances shall the foundation drain system be connected to the sanitary sewer. The termination point must not cause erosion or discharge onto neighboring properties, sidewalks, or driveways.
