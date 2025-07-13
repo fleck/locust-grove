@@ -43,6 +43,8 @@
 
 **Garage Slab Elevation:** The top of the garage slab shall be the same as the existing grade on the SW side of the garage.
 
+**Garage Door Drainage:** The garage slab at the garage door opening shall be tapered away from the building to ensure positive drainage and prevent water infiltration.
+
 **Basement Slab Elevation:** The basement slab is **75 3/4 inches lower** than the garage slab.
 
 #### **Anchor Bolt Requirements**
