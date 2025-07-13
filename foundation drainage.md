@@ -1,76 +1,45 @@
 # Foundation Drainage System Installation
 
 ## System Overview
-The foundation drainage system requirements vary by location:
-- **Basement areas**: Shall have both interior and exterior drainage systems installed for comprehensive moisture protection. Both systems shall connect to their own sump pump basins for discharge.
-- **Garage areas**: Shall have only the exterior drainage system installed. The garage system shall be completely separate from the house system and discharge directly to daylight via gravity flow without requiring a sump pump. 
+- **Basement areas**: Require both interior and exterior drainage systems, each connected to separate sump pump basins.
+- **Garage areas**: Require only exterior drainage system with direct gravity discharge to daylight.
 
-## Exterior Foundation Drain System Installation
-### Foundation Preparation
-After foundation footings are poured and cured, and prior to installing the drainage system, apply the specified damp proofing or waterproofing membrane to the exterior foundation walls. Allow membrane to cure as per manufacturer's instructions.
-### Trench Excavation
-The trench for the drainpipe shall be excavated alongside the footing.
-### Pipe Placement & Slope
-- Place a minimum 2-inch base of drainage aggregate in the bottom of the trench.
-- Install the 4-inch perforated PVC pipe, fitted with a filter sock, on top of the aggregate base. The top of the pipe shall be set at or slightly below the top of the concrete footing.
-- The pipe shall be laid with a positive slope of at least 1/8 inch per foot (1% grade) towards the discharge point (sump pit or daylight exit). Use a builder's level to verify slope continuously.
-- Connect pipe sections using appropriate PVC fittings. A continuous loop around the foundation is required.
-### Aggregate Backfill
-- Carefully backfill over and around the pipe with drainage aggregate.
-- The aggregate shall extend to a minimum of 6 inches above the top of the footing and a minimum of 12 inches horizontally from the face of the foundation wall.
-### Filter Fabric Installation
-- Lay the non-woven geotextile filter fabric over the top of the aggregate, overlapping all seams by at least 12 inches.
-- The fabric should extend up the foundation wall by at least 12 inches and be temporarily secured. This separates the drainage aggregate from the backfill soil, preventing clogging.
-### Connection to Sump Pit (Basement Areas Only)
-For basement areas only, a solid PVC pipe shall be used to connect the high point of the exterior footing drain to one of the knockout inlets on the exterior sump basin. Ensure a watertight seal at the basin penetration.
+## Exterior Foundation Drain System
+### Installation Process
+1. Apply damp proofing/waterproofing membrane to foundation walls after footings cure
+2. Excavate trench alongside footing
+3. Install 2-inch drainage aggregate base in trench
+4. Place 4-inch perforated PVC pipe with filter sock on aggregate, top at or below footing level
+5. Maintain 1/8 inch per foot slope toward discharge point
+6. Backfill with drainage aggregate to 6 inches above footing, 12 inches from foundation wall
+7. Install non-woven geotextile filter fabric over aggregate with 12-inch overlaps
+8. Place 12-inch layer of native soil over fabric
 
-### Direct Discharge to Daylight (Garage Areas Only)
-For garage areas, the exterior footing drain shall be connected to a solid PVC pipe that slopes continuously to a daylight exit point. The discharge point must be located a minimum of 10 feet away from the foundation and comply with Springettsbury Township ordinance § 281-29.
-### Initial Backfill
-Place an initial 12-inch layer of native soil or approved fill material carefully over the filter fabric to hold it in place. Do not use heavy machinery directly over the drain system. Final backfilling can proceed after inspection approval.
+### Connections
+- **Basement areas**: Connect to exterior sump basin via solid PVC pipe
+- **Garage areas**: Connect to solid PVC pipe discharging to daylight (minimum 10 feet from foundation)
 
-## Interior Foundation Drain System Installation
-### Pre-Slab Preparation
-This system is installed after the basement sub-base is graded and compacted, but before the vapor barrier and concrete slab are placed.
-### Trenching
-A trench shall be created around the full interior perimeter of the basement, adjacent to the footing.
-### Pipe Installation
-- Place a 2-inch base of drainage aggregate in the trench.
-- Install 4-inch perforated PVC pipe (with perforations down) on the aggregate base, maintaining a positive slope towards the interior sump basin.
-- Connect the pipe into a continuous loop and run a solid pipe from the loop to the interior sump basin, ensuring a watertight connection.
-### Aggregate & Vapor Barrier
-- Backfill the trench completely with drainage aggregate, leveling it with the surrounding sub-base.
-- A layer of filter fabric may be placed over the aggregate trench as an optional, additional protective measure.
-- The basement vapor barrier shall be installed over the entire sub-base, including the top of the interior drain trench.
+## Interior Foundation Drain System (Basement Areas Only)
+1. Create perimeter trench adjacent to footing after sub-base preparation
+2. Install 2-inch aggregate base and 4-inch perforated PVC pipe (perforations down)
+3. Slope toward interior sump basin and connect with solid pipe
+4. Backfill with drainage aggregate level with sub-base
+5. Install vapor barrier over entire sub-base including drain trench
 
-## Sump Pump & Discharge System (Basement Areas Only)
-### Interior Sump Basin Installation
-The interior sump basin shall be set in a pit with its top flush with the finished concrete slab. The bottom of the pit should have several inches of drainage aggregate for a stable base.
-### Exterior Sump Basin Installation
-The exterior sump basin shall be installed outside the foundation at a depth that allows proper drainage from the exterior footing drains. The basin should be accessible for maintenance and positioned on the North East side of the basement to facilitate proper discharge routing.
-### Discharge Piping
-- Install sump pumps within both basins according to the manufacturer's specifications.
-- The discharge pipes shall be 2-inch Schedule 40 PVC. Check valves must be installed on both discharge lines to prevent backflow.
-- The discharge lines shall be routed to the exterior and must terminate a minimum of 10 feet away from the foundation.
-### Discharge Location
-Per Springettsbury Township ordinance § 281-29, discharge shall be directed to SWM pond.
+## Sump Pump System (Basement Areas Only)
+### Basin Installation
+- **Interior**: Set basin flush with finished slab
+- **Exterior**: Install on North East side, accessible for maintenance
 
-Note: For garage areas with direct daylight discharge, the same discharge location requirements apply, but no sump pump system is required.
-### Final Connections (Basement Areas Only)
-Ensure both sump pumps are connected to dedicated GFCI-protected electrical outlets. Test both systems by filling the basins with water to verify the automatic float switches and pumps are operating correctly.
+### Discharge Requirements
+- Install 1/3 HP submersible pumps with automatic float switches
+- Use 2-inch Schedule 40 PVC discharge pipes with check valves
+- Route discharge minimum 10 feet from foundation to SWM pond per Township ordinance § 281-29
+- Connect to dedicated GFCI-protected electrical outlets
 
 ## Materials
-### Perforated Pipe
-4-inch diameter, white perforated PVC pipe conforming to ASTM D2729. Perforations shall be oriented downwards (at the 4 and 8 o'clock positions) upon installation.
-### Solid Pipe
-4-inch diameter, white solid PVC sewer and drain pipe (ASTM D2729 or Schedule 40) for discharge lines from the sump pump and for solid runs to daylight if applicable.
-### Drainage Aggregate
-Washed, clean, crushed stone or gravel, 3/4-inch to 1.5-inch in diameter. Must be free of fines, dirt, and organic material.
-### Filter Fabric
-Non-woven geotextile filter fabric, rated for soil filtration and drainage applications. To be used to wrap the aggregate trench.
-### Pipe Filter Sock
-Spun-polyester or similar filter "sock" designed to fit over 4-inch perforated pipe.
-### Damp proofing/Waterproofing
-Foundation walls shall be damp proofed with a trowel-applied or spray-on waterproofing membrane.
-### Sump Basins & Pumps (Basement Areas Only)
-Two 24-inch diameter, sealed sump basins with solid, lockable covers (one interior, one exterior). Sump pumps shall be a minimum 1/3 HP submersible cast-iron models with automatic float switches.
+- **Pipe**: 4-inch white perforated PVC (ASTM D2729) with filter sock; 4-inch solid PVC for discharge
+- **Aggregate**: Washed crushed stone, 3/4-inch to 1.5-inch diameter
+- **Filter Fabric**: Non-woven geotextile for soil filtration
+- **Waterproofing**: Trowel-applied or spray-on membrane for foundation walls
+- **Sump Equipment**: 24-inch diameter sealed basins with lockable covers; 1/3 HP submersible pumps
