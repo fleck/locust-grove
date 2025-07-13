@@ -44,7 +44,7 @@ A trench shall be created around the full interior perimeter of the basement, ad
 ### Interior Sump Basin Installation
 The interior sump basin shall be set in a pit with its top flush with the finished concrete slab. The bottom of the pit should have several inches of drainage aggregate for a stable base.
 ### Exterior Sump Basin Installation
-The exterior sump basin shall be installed outside the foundation at a depth that allows proper drainage from the exterior footing drains. The basin should be accessible for maintenance and positioned to facilitate proper discharge routing.
+The exterior sump basin shall be installed outside the foundation at a depth that allows proper drainage from the exterior footing drains. The basin should be accessible for maintenance and positioned on the North East side of the basement to facilitate proper discharge routing.
 ### Discharge Piping
 - Install sump pumps within both basins according to the manufacturer's specifications.
 - The discharge pipes shall be 1.5-inch Schedule 40 PVC. Check valves must be installed on both discharge lines to prevent backflow.
