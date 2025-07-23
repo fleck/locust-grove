@@ -4,10 +4,10 @@
 W18x65
 
 ### Center column
-HSS 4x4x3/16 ASTM A500, Grade C
+HSS 4x4x3/8 ASTM A500, Grade C
 
 #### Column top plate
-8" x 8" x 5/8", ASTM A36 welded to the top of the HSS.
+8" x 8" x 5/8", ASTM A36 welded to the top of the HSS. Top plate shall be bolted to bottom flange of beam with ASTM A325 
 
 #### Base Plate:
 10" x 10" x 3/4", ASTM A36 
