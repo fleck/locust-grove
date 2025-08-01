@@ -20,4 +20,4 @@ A 1-inch grout space should be provided between the bottom of the base plate and
 Four (4) bolts, arranged in a square pattern. Use 3/4-inch diameter ASTM A325-N bolts.
 
 ### Center footing
-7'x 7' footing with four (4) 3/4-inch diameter ASTM F1554 Grade 36 anchor rods, embedded in the center of the footing to attach to baseplate of center column. **Center footing shall be same height as finished slab, but isolated from it** with an appropriate compressible joint filler material (such as asphalt-impregnated fiberboard or closed-cell foam) 
+6'x 6' footing with four (4) 3/4-inch diameter ASTM F1554 Grade 36 anchor rods, embedded in the center of the footing to attach to baseplate of center column. **Center footing shall be same height as finished slab, but isolated from it** with an appropriate compressible joint filler material (such as asphalt-impregnated fiberboard or closed-cell foam) 
