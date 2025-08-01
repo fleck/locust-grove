@@ -1,7 +1,7 @@
 # Carrying Beam
 
 ### Beam size
-W18x65
+W18x65 ASTM A992
 
 ### Beam web stiffener
 Two (2) full-depth stiffeners (one on each side of the beam web) centered over where the HSS column attaches. Dimensions: 5 inches wide x 3/8 inch thick x height of webbing ASTM A572 Grade 50. The stiffeners shall be welded to the beam web and both the top and bottom flanges with a 1/4-inch fillet weld.
