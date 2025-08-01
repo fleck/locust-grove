@@ -20,24 +20,24 @@ A 1-inch grout space should be provided between the bottom of the base plate and
 Four (4) bolts, arranged in a square pattern. Use 3/4-inch diameter ASTM A325-N bolts.
 
 ### Center footing
-6'x 6' footing with four (4) 3/4-inch diameter ASTM F1554 Grade 36 anchor rods, embedded in the center of the footing to attach to baseplate of center column. **Center footing shall be same height as finished slab, but isolated from it** with an appropriate compressible joint filler material (such as asphalt-impregnated fiberboard or closed-cell foam) 
+6'x 6' footing with four (4) 3/4-inch diameter ASTM F1554 Grade 36 anchor rods, embedded in the center of the footing to attach to baseplate of center column. **Center footing shall be same height as finished slab, but isolated from it** with an appropriate compressible joint filler material (such as asphalt-impregnated fiberboard or closed-cell foam.
 
 ### Foundation Wall Pocket
 Type: Blind pocket (do not extend through the full thickness of the wall)  
-Dimensions: 9" wide x 6" long x 20.5" high
-Exterior Concrete Cover: Maintain a minimum of 2" of solid concrete at the back of the pocket  
+Dimensions: 9" wide x 5" long x 20.5" high
+Exterior Concrete Cover: Maintain a minimum of 3" of solid concrete at the back of the pocket.
 
 #### Bearing Plate
-Size: 5.5" long x 8" wide x 3/8" thick  
+Size: 4" long x 8" wide x 3/8" thick  
 Material: ASTM A36 Steel  
-Finish: Clean and coat all surfaces with rust-inhibiting primer and topcoat prior to installation  
+Finish: Clean and coat all surfaces with rust-inhibiting primer and topcoat prior to installation. 
 
 #### Materials & Installation
-Grout: Fill the 1" space under the bearing plate with 5,000 psi minimum compressive strength, non-shrink, non-metallic grout  
-Reinforcement: Frame the pocket opening with supplementary rebar. Place two (2) #4 U-bars around the top and sides and two (2) #4 straight bars horizontally below the pocket  
-Connection: The beam end shall rest freely on the grouted bearing plate. Do not weld or anchor the beam or plate to the foundation wall  
-Construction Note: The beam must be pre-loaded with floor joists and subfloor before final grouting to account for dead-load deflection  
+Grout: Fill the 1" space under the bearing plate with 5,000 psi minimum compressive strength, non-shrink, non-metallic grout.
+Reinforcement: Frame the pocket opening with supplementary rebar. Place two (2) #4 U-bars around the top and sides and two (2) #4 straight bars horizontally below the pocket.
+Connection: The beam end shall rest freely on the grouted bearing plate. Do not weld or anchor the beam or plate to the foundation wall.
+Construction Note: The beam must be pre-loaded with floor joists and subfloor before final grouting to account for dead-load deflection.
 
 #### Insulation & Sealing
-Capillary Break: Install a capillary break (closed-cell foam) at the back of the pocket, between the beam end and the concrete  
-Insulation: After grouting, fill all remaining voids on the sides, top, and back of the beam with closed-cell spray polyurethane foam to provide insulation and act as an air/vapor barrier
+Capillary Break: Install a capillary break (closed-cell foam) at the back of the pocket, between the beam end and the concrete.
+Insulation: After grouting, fill all remaining voids on the sides, top, and back of the beam with closed-cell spray polyurethane foam to provide insulation and act as an air/vapor barrier.
