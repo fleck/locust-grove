@@ -1,4 +1,4 @@
-### **2.3 Girder Assembly and Fastening Procedure**
+### **Girder Assembly and Fastening Procedure**
 
 Proper fastening is critical to girder performance. The plies must be held tightly together during the entire nailing process to prevent "board jacking" (separation of plies caused by the wedge effect of the nail point) and ensure an effective shear connection.
 
@@ -16,13 +16,13 @@ Proper fastening is critical to girder performance. The plies must be held tight
 
 Export to Sheets
 
-## **3.0 Permanent System Bracing (BCSI-B3)**
+## **Permanent System Bracing (BCSI-B3)**
 
-### **3.1 Overview of Permanent Bracing Requirements**
+### **Overview of Permanent Bracing Requirements**
 
 Permanent bracing is an essential, non-negotiable component of the completed truss system. It prevents individual truss members from buckling out-of-plane under compression, maintains correct truss spacing, and transfers lateral loads (such as wind) through the roof and ceiling diaphragms to the building's foundation. The truss system, particularly the heavily loaded girders, will not achieve its design capacity and may collapse if permanent bracing is omitted or improperly installed. Bracing must be installed in three distinct planes: the Bottom Chord Plane, the Top Chord Plane, and the Web Member Plane.
 
-### **3.2 Bottom Chord Plane Bracing**
+### **Bottom Chord Plane Bracing**
 
 1. **Continuous Lateral Restraint (CLR):** Install rows of CLR perpendicular to the direction of the truss bottom chords. CLR material shall be minimum 2x4 stress-graded lumber installed flat.  
 2. **CLR Spacing:** The maximum spacing between rows of CLR shall be 10'-0" on-center.  
@@ -32,12 +32,12 @@ Permanent bracing is an essential, non-negotiable component of the completed tru
    * **Installation:** Install diagonal braces at an angle of approximately 45 degrees relative to the CLRs. The diagonals must be securely fastened to the top of the CLRs and extend to connect to a point of lateral stability, such as the top plates of braced end walls or interior shear walls.  
    * **Spacing:** Diagonal bracing must be installed at each end of the building and at intervals not to exceed 20'-0" along the building's length.
 
-### **3.3 Top Chord Plane Bracing**
+### **Top Chord Plane Bracing**
 
 1. **Structural Sheathing:** The primary bracing for the top chord plane is provided by the structural roof sheathing (e.g., OSB or Plywood). The sheathing acts as a diaphragm, providing continuous lateral support to the top chords. It must be installed with its strength axis perpendicular to the trusses and fastened according to the nailing schedule specified by the Building Designer in the main construction documents.  
 2. **Diagonal Bracing:** In some cases, the Building Designer may specify additional diagonal "X" bracing, typically made from 1x4 or 2x4 lumber, to be installed between the top chords in specific bays (e.g., at gable ends) to further enhance diaphragm stiffness.
 
-### **3.4 Web Member Plane Bracing**
+### **Web Member Plane Bracing**
 
 The TDD for the GA1 truss explicitly requires web bracing. The "Bracing Data" section notes: "Continuous Restraint Bracing Req'd... See BCSI-B3 3.0" and indicates a CLR is required at web member 4-6.
 
@@ -45,11 +45,11 @@ The TDD for the GA1 truss explicitly requires web bracing. The "Bracing Data" se
 2. **Web CLR Connection:** Fasten the CLR to each web member it crosses with two (2) 10d (3") nails.  
 3. **Web CLR Diagonal Bracing:** This web-level CLR is not effective until it is itself braced. Install diagonal bracing (minimum 2x4) at an angle of approximately 45 degrees, connecting the web CLR down to the bottom chord CLR system or up to the roof sheathing diaphragm to transfer lateral forces out of the web plane.
 
-## **4.0 Framing the 44.5-inch Stairway Opening**
+## **Framing the 44.5-inch Stairway Opening**
 
 With the two 2-ply girder trusses fabricated and all permanent bracing installed, the final step is to frame the floor and roof planes across the 44.5-inch opening.
 
-### **4.1 Subfloor Support System (Floor Headers)**
+### **Subfloor Support System (Floor Headers)**
 
 To support the attic subfloor around the staircase opening, a robust header system is required. The 44.5-inch opening is very near the 4-foot span at which industry standards mandate doubled headers. Given the high specified attic floor live load of 40 psf , a double header system is specified to provide superior strength and stiffness, ensuring a solid, sag-free floor at the top of the stairs.
 
@@ -60,7 +60,7 @@ To support the attic subfloor around the staircase opening, a robust header syst
    * **Connector:** Use a code-approved metal joist hanger designed to connect a double (3-inch wide) header to a 2-ply (3-inch wide) girder. An appropriate connector is the **Simpson Strong-Tie LUS28-2** or equivalent.  
    * **Fasteners:** Install the hangers using the specific fasteners required by the hanger manufacturer. **It is critical to use the correct nail length.** For face-nailing the hanger to the girder, use 1.5-inch joist hanger nails (e.g., Simpson Strong-Tie N10D) to ensure the nails do not penetrate the second ply of the girder. For connecting to the top flange of the hanger, use the full-length nails specified by the manufacturer, typically 10d (3") nails driven at a 45-degree angle through the provided holes. Fill all nail holes on the hanger.
 
-### **4.2 Roof Support System (Ladder Framing)**
+### **Roof Support System (Ladder Framing)**
 
 To support the roof sheathing over the 44.5-inch opening, "ladder framing" must be installed between the top chords of the two girder trusses. This creates a continuous nailing surface and transfers roof loads into the girders.
 
