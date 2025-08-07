@@ -47,6 +47,17 @@ Opening will be supported by two girder trusses on either side of the opening. T
    * **Connector:** Use a code-approved metal joist hanger designed to connect a double (3-inch wide) header to a 2-ply (3-inch wide) girder. An appropriate connector is the **Simpson Strong-Tie LUS28-2** or equivalent.  
    * **Fasteners:** Install the hangers using the specific fasteners required by the hanger manufacturer. For face-nailing the hanger to the girder, use 1.5-inch joist hanger nails (e.g., Simpson Strong-Tie N10D) to ensure the nails do not penetrate the second ply of the girder. For connecting to the top flange of the hanger, use the full-length nails specified by the manufacturer, typically 10d (3") nails driven at a 45-degree angle through the provided holes.
 
+### **Attic Floor Joists between girder trusses**
+
+1.  **Joist Specification:**
+    *   **Size:** Use No. 2 Grade or better 2x6 lumber.
+    *   **Spacing:** Install the joists 16 inches on-center.
+2.  **Joist Fastening:**
+    *   **Obtain Truss Drawings:** Before starting, you must get the official design drawings for the girder trusses from the manufacturer. These drawings will show the required connection points.
+    *   **Connection Method:** The recommended and most reliable method is to attach the joists to the side of the girder trusses using metal joist hangers.
+    *   **Layout:** Mark the joist locations on the girder trusses, ensuring they align with the vertical web members (panel points) as shown on the truss drawings.
+    *   **Select Hangers:** Choose joist hangers specifically designed for 2x6 lumber. Truss-specific hangers (like the Simpson Strong-Tie HTU series) are ideal, but standard hangers (like the LUS series) can be used if the truss has a solid vertical web to accept all the required nails.
+
 ### **Roof Support System (Ladder Framing)**
 
 To support the roof sheathing over the 44.5-inch opening, "ladder framing" must be installed between the top chords of the two girder trusses. This creates a continuous nailing surface and transfers roof loads into the girders.
