@@ -38,7 +38,7 @@ Opening will be supported by two girder trusses on either side of the opening. T
 | Bottom Chord | 2x8 | 10d Common (3") | 2 | 12" o.c. | Rows shall be located 1.5 inches from the top and bottom edges of the chord member. Nails in the top row shall be staggered relative to the nails in the bottom row. |
 | Web Members | 2x4 & 2x6 | N/A | N/A | N/A | No ply-to-ply nailing required. |
 
-### **Subfloor Support System (Floor Headers)**
+### **Stairwell Support System (Headers)**
 
 1. **Header Material:** Headers shall be constructed from two pieces of 2x8 SP \#1 lumber. The 2x8 depth matches the depth of the truss bottom chords, creating a flush plane for the subfloor.  
 2. **Header Assembly:** Nail the two 2x8 members together to form a double header. Use two rows of 10d (3") nails spaced 16" o.c., staggered.  
