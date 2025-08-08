@@ -1,71 +1,31 @@
-## **Permanent System Bracing (BCSI-B3)**
+## **Main House Attic Trusses**
+Span: 40'
 
-### **Bottom Chord Plane Bracing**
+Roof Pitch: 6/12
 
-1. **Continuous Lateral Restraint (CLR):** Install rows of CLR perpendicular to the direction of the truss bottom chords. CLR material shall be minimum 2x4.  
-2. **CLR Spacing:** The maximum spacing between rows of CLR shall be 10' on-center.  
-3. **CLR Connection:** Securely fasten the CLR to the bottom edge of each truss bottom chord it crosses with a minimum of two (2) 10d (3") nails.  
-4. **Diagonal Bracing:** The entire system of CLRs must be stabilized with diagonal bracing to prevent lateral movement.  
-   * **Material:** Diagonal braces shall be minimum 2x4 stress-graded lumber.  
-   * **Installation:** Install diagonal braces at an angle of approximately 45 degrees relative to the CLRs. The diagonals must be securely fastened to the top of the CLRs and extend to connect to a point of lateral stability, such as the top plates of braced end walls or interior shear walls.  
-   * **Spacing:** Diagonal bracing must be installed at each end of the building and at intervals not to exceed 21'-0" along the building's length.
+On-Center Spacing: 24"
 
-### **Top Chord Plane Bracing**
+Eave Overhang: 12"
 
-1. **Structural Sheathing:** Must be installed with its strength axis perpendicular to the trusses.
+Gable Overhang: 18" This requires 3.5" drop end gable trusses on each gable to accommodate outlook rafters.
 
-### **Web Member Plane Bracing**
+Attic Stair opening (3' 9.5") supported by multi ply girder trusses on either side.
 
-The TDD for the GA1 truss explicitly requires web bracing. The "Bracing Data" section notes: "Continuous Restraint Bracing Req'd... See BCSI-B3 3.0" and indicates a CLR is required at web member 4-6.
+Attic room size Width 16' x max height of 7' 6"
 
-1. **Web CLR:** Install a continuous row of 2x4 CLR, installed flat, horizontally across the specified web members (4-6). The CLR should be located at approximately the mid-height of the web.  
-2. **Web CLR Connection:** Fasten the CLR to each web member it crosses with two (2) 10d (3") nails.  
-3. **Web CLR Diagonal Bracing:** This web-level CLR is not effective until it is itself braced. Install diagonal bracing (minimum 2x4) at an angle of approximately 45 degrees, connecting the web CLR down to the bottom chord CLR system or up to the roof sheathing diaphragm to transfer lateral forces out of the web plane.
+Attic room specs: 40.0 psf Live & 2.0 psf Dead Floor, 5.0 psf Dead Wall, 5.0 psf Dead Ceiling loads, and meets deflection criteria L/360.
 
-## **Stairway Opening**
-Opening will be supported by two girder trusses on either side of the opening. The girder trusses are to be made onsite by combining two trusses together.
+## **Garage attic trusses**
+Span: 40'
 
-### **Girder Assembly and Fastening Procedure**
- 
-1. **Fastener Specification:** All ply-to-ply connections shall be made with **10d Common nails**, which have a nominal diameter of 0.148 inches and a length of 3 inches.  
-2. **Fastening Technique:** Fasten the trusses together from one side only. The 3-inch nail length is appropriate for connecting two nominal 1.5-inch thick members (total thickness of 3 inches) without the nail point protruding from the opposite face. Drive nails perpendicular to the face of the truss members.  
-3. **Nailing Pattern:** The nailing pattern specified in Table 2.3.1 shall be applied to all Top Chord and Bottom Chord members along their entire length. The pattern of two rows is required for members with depths greater than 5.5 inches, which includes the 2x8 (7.25-inch) and 2x10 (9.25-inch) chords of the truss.
+Roof Pitch: 6/12
 
-| Table 2.3.1: Ply-to-Ply Nailing Schedule for 2-Ply GA1 Girder |  |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| **Truss Member** | **Lumber Size** | **Fastener** | **Number of Rows** | **Spacing (On-Center)** | **Nailing Pattern Detail** |
-| Top Chords | 2x8 & 2x10 | 10d Common (3") | 2 | 12" o.c. | Rows shall be located 1.5 inches from the top and bottom edges of the chord member. Nails in the top row shall be staggered relative to the nails in the bottom row. |
-| Bottom Chord | 2x8 | 10d Common (3") | 2 | 12" o.c. | Rows shall be located 1.5 inches from the top and bottom edges of the chord member. Nails in the top row shall be staggered relative to the nails in the bottom row. |
-| Web Members | 2x4 & 2x6 | N/A | N/A | N/A | No ply-to-ply nailing required. |
+On-Center Spacing: 24"
 
-### **Stairwell Support System (Headers)**
+Eave Overhang: 12"
 
-1. **Header Material:** Headers shall be constructed from two pieces of 2x8 SP \#1 lumber. The 2x8 depth matches the depth of the truss bottom chords, creating a flush plane for the subfloor.  
-2. **Header Assembly:** Nail the two 2x8 members together to form a double header. Use two rows of 10d (3") nails spaced 16" o.c., staggered.  
-3. **Header Installation:** Install one double 2x8 header at the front of the staircase rough opening and one at the back, spanning between the two 2-ply girder trusses.  
-4. **Header-to-Girder Connection:**  
-   * **Connector:** Use a code-approved metal joist hanger designed to connect a double (3-inch wide) header to a 2-ply (3-inch wide) girder. An appropriate connector is the **Simpson Strong-Tie LUS28-2** or equivalent.  
-   * **Fasteners:** Install the hangers using the specific fasteners required by the hanger manufacturer. For face-nailing the hanger to the girder, use 1.5-inch joist hanger nails (e.g., Simpson Strong-Tie N10D) to ensure the nails do not penetrate the second ply of the girder. For connecting to the top flange of the hanger, use the full-length nails specified by the manufacturer, typically 10d (3") nails driven at a 45-degree angle through the provided holes.
+Gable Overhang: 18" This requires a single 3.5" drop end gable truss to accommodate outlook rafters.
 
-### **Attic Floor Joists between girder trusses**
+Attic room size Width 16' x max height of 7' 6"
 
-1.  **Joist Specification:**
-    *   **Size:** Use No. 2 Grade or better 2x6 lumber.
-    *   **Spacing:** Install the joists 16 inches on-center.
-2.  **Joist Fastening:**
-    *   **Obtain Truss Drawings:** Before starting, you must get the official design drawings for the girder trusses from the manufacturer. These drawings will show the required connection points.
-    *   **Connection Method:** The recommended and most reliable method is to attach the joists to the side of the girder trusses using metal joist hangers.
-    *   **Layout:** Mark the joist locations on the girder trusses, ensuring they align with the vertical web members (panel points) as shown on the truss drawings.
-    *   **Select Hangers:** Choose joist hangers specifically designed for 2x6 lumber. Truss-specific hangers (like the Simpson Strong-Tie HTU series) are ideal, but standard hangers (like the LUS series) can be used if the truss has a solid vertical web to accept all the required nails.
-
-### **Roof Support System (Ladder Framing)**
-
-To support the roof sheathing over the 44.5-inch opening, "ladder framing" must be installed between the top chords of the two girder trusses. This creates a continuous nailing surface and transfers roof loads into the girders.
-
-1. **Ladder Rung Material:** Ladder rungs shall be 2x6 SP \#1 lumber, installed vertically (on edge).  
-2. **Rung Spacing:** Install rungs at 24" o.c., aligning them with the layout of the adjacent standard trusses.  
-3. **Rung Connection:** Secure each end of each 2x6 rung to the top chord of the girder truss.  
-   * **Primary Connection:** End-nail through the girder top chord into the end of the rung with three (3) 16d sinker nails.  
-   * **Uplift Connection:** For enhanced resistance to wind uplift, install a framing anchor (e.g., Simpson Strong-Tie A35 or equivalent) at each end of each rung. Fasten the anchor with four (4) 1.5-inch joist hanger nails into the rung and four (4) 1.5-inch nails into the top chord of the girder.  
-4. **Roof Sheathing Installation:** The structural integrity of the ladder frame depends on the roof sheathing acting as a diaphragm. Run roof sheathing panels continuously over the ladder framing. **Do not create a seam in the sheathing directly over the opening.** The sheathing must extend over the ladder rungs and onto the adjacent trusses to properly tie the structure together.
-
+Attic room specs: 40.0 psf Live & 2.0 psf Dead Floor, 5.0 psf Dead Wall, 5.0 psf Dead Ceiling loads, and meets deflection criteria L/360.
