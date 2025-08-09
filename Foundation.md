@@ -47,6 +47,10 @@
 
 **Basement Slab Elevation:** The basement slab is **75 3/4 inches lower** than the garage slab.
 
+**Slab Thickness:** The garage and basement concrete slabs shall be a minimum of **4 inches** thick.
+
+**Basement Slab Insulation and Vapor Barrier:** The basement slab shall be placed over a minimum of **2 inches of XPS rigid insulation** and a **10 mil vapor barrier**.
+
 #### **Anchor Bolt Requirements**
 
 * **Type:** 1/2-inch diameter steel anchor bolts.  
