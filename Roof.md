@@ -29,3 +29,12 @@ Gable Overhang: 18" This requires a single 3.5" drop end gable truss to accommod
 Attic room size Width 16' x max height of 7' 6"
 
 Attic room specs: 40.0 psf Live & 2.0 psf Dead Floor, 5.0 psf Dead Wall, 5.0 psf Dead Ceiling loads, and meets deflection criteria L/360.
+
+## **Insulation**
+### **Attic Floor**
+- Install multiple layers of rigid foam insulation underneath the attic floor to achieve an R-value of R-49.
+
+### **Eave Area**
+- After the rigid insulation is installed, apply a 2" thick layer of spray foam insulation in the eave areas.
+- This spray foam application should seal the ends of the rigid insulation panels.
+- Install R-49 batt insulation on top of the spray foam layer.
