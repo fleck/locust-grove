@@ -35,6 +35,7 @@ Attic room specs: 40.0 psf Live & 2.0 psf Dead Floor, 5.0 psf Dead Wall, 5.0 psf
 - Install multiple layers of rigid foam insulation underneath the attic floor to achieve an R-value of R-49.
 
 ### **Eave Area**
-- After the rigid insulation is installed, apply a 2" thick layer of spray foam insulation in the eave areas.
-- This spray foam application should seal the ends of the rigid insulation panels.
+- Install baffles to ensure that soffit vents don't get clogged.
+- After the rigid insulation is installed underneath attic floor and drywall is installed on second floor ceilings, apply a 2" thick layer of spray foam insulation in the eave areas.
+- This spray foam application cover from the exterior wall and continue to to seal the ends of the rigid insulation panels underneath the attic floor.
 - Install R-49 batt insulation on top of the spray foam layer.
