@@ -2,7 +2,6 @@
 
 ### **General Notes**
 
-*   **Code Compliance:** All framing shall comply with the 2018 International Residential Code (IRC) as adopted by Pennsylvania's Uniform Construction Code (UCC).
 *   **Manufacturer's Instructions:** All engineered wood products (I-joists, LVL beams, etc.) shall be installed in strict accordance with the manufacturer's installation instructions and specifications.
 *   **Lumber Grade:** All framing lumber shall be SPF No. 2 or better, unless otherwise noted.
 
