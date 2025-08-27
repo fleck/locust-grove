@@ -31,3 +31,13 @@
 *   **Material:** 3/4" T&G (Tongue and Groove) OSB subfloor sheathing, Exposure 1 rated.
 *   **Installation:** Sheathing shall be installed with the strength axis perpendicular to the floor joists. End joints of panels shall be staggered. A 1/8-inch gap shall be left at all panel edge and end joints.
 *   **Fastening:** Sheathing shall be glued to joists with a continuous bead of subfloor adhesive conforming to ASTM D3498. Fasten with 8d deformed-shank nails or approved screws at 6 inches on-center along panel edges and 12 inches on-center over intermediate supports.
+
+---
+
+### **Stairwell Framing**
+
+*   **Girder System:** 4-ply 1-3/4" LVL on each side of the stairwell.
+*   **Header:** Double 1.75" x 14" LVL header.
+*   **Header Hanger:** Use BA3.56/14 hanger for the header.
+*   **Footer:** Single LVL.
+*   **Joists:** 65 series I-joists running perpendicular to the girder.
