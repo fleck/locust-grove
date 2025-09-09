@@ -9,7 +9,7 @@
 
 ### **Sill Plate**
 
-*   **Material:** 2x8 pressure-treated Southern Yellow Pine or Douglas Fir.
+*   **Material:** 2x6 pressure-treated Southern Yellow Pine or Douglas Fir.
 *   **Moisture Barrier:** A continuous closed-cell foam sill sealer or EPDM membrane shall be installed between the top of the foundation wall and the sill plate to serve as a capillary break and air seal.
 *   **Anchorage:** Sill plates shall be anchored to the foundation wall as specified in the foundation plan.
 
@@ -17,11 +17,11 @@
 
 ### **Floor System**
 
-*   **Joist Type:** Engineered Wood I-Joists.
-*   **Joist Spacing:** I-Joists to be installed at **19.2 inches on-center**.
-*   **Rim Joist:** Rim joists shall be a 1-1/8" engineered wood product. Where rim joists run parallel to the floor joists, they shall be doubled.
+*   **Joist Type:** Engineered Wood I-Joists 14" deep.
+*   **Joist Spacing:** I-Joists to be installed at **19 3/16" (19.2") inches on-center**.
+*   **Rim Joist:** Rim joists shall be a 1-1/8" engineered wood product.
 *   **Joist Bearing:** Joists shall have a minimum of 1-3/4 inches of bearing on wood or steel, and 3 inches of bearing on masonry or concrete.
-*   **Bridging:** Solid blocking, the same depth as the joists, shall be installed at all ends and load-bearing points.
+*   **Bridging:** Solid blocking made from rim joist, the same depth as the joists, shall be installed at all ends and load-bearing points.
 *   **Holes and Notches:** Cutting, notching, or drilling of I-joists shall be performed strictly in accordance with the manufacturer's written specifications. No modifications are permitted to the top or bottom flanges.
 
 ---
@@ -33,11 +33,3 @@
 *   **Fastening:** Sheathing shall be glued to joists with a continuous bead of subfloor adhesive conforming to ASTM D3498. Fasten with 8d deformed-shank nails or approved screws at 6 inches on-center along panel edges and 12 inches on-center over intermediate supports.
 
 ---
-
-### **Stairwell Framing**
-
-*   **Girder System:** 4-ply 1-3/4" LVL on each side of the stairwell.
-*   **Header:** Double 1.75" x 14" LVL header.
-*   **Header Hanger:** Use BA3.56/14 hanger for the header.
-*   **Footer:** Single LVL.
-*   **Joists:** 65 series I-joists running perpendicular to the girder.
