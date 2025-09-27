@@ -1,4 +1,4 @@
-# First Floor Framing Plan
+# Floor Framing Plan
 
 ### **General Notes**
 
@@ -17,7 +17,7 @@
 
 ### **Floor System**
 
-*   **Joist Type:** Engineered Wood I-Joists 14" deep.
+*   **Joist Type:** Engineered Wood I-Joists 14" deep. On the second floor several 14" trusses will be selectively used to ease plumbing and HVAC installation. See drawing for truss placement.
 *   **Joist Spacing:** I-Joists to be installed at **19 3/16" (19.2") inches on-center**.
 *   **Rim Joist:** Rim joists shall be a 1-1/8" engineered wood product.
 *   **Joist Bearing:** Joists shall have a minimum of 1-3/4 inches of bearing on wood or steel, and 3 inches of bearing on masonry or concrete.
