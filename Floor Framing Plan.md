@@ -18,7 +18,7 @@
 ### **Floor System**
 
 *   **Joist Type:** Engineered Wood I-Joists 14" deep. On the second floor several 14" trusses will be selectively used to ease plumbing and HVAC installation. See drawing for truss placement.
-*   **Joist Spacing:** I-Joists to be installed at **19 3/16" (19.2") inches on-center**.
+*   **Joist Spacing:** I-Joists to be installed at max of **19 3/16" (19.2") inches on-center**. Note that select joists may have closer spacing noted on plan.
 *   **Rim Joist:** Rim joists shall be a 1-1/8" engineered wood product.
 *   **Joist Bearing:** Joists shall have a minimum of 1-3/4 inches of bearing on wood or steel, and 3 inches of bearing on masonry or concrete.
 *   **Bridging:** Solid blocking made from rim joist, the same depth as the joists, shall be installed at all ends and load-bearing points.
