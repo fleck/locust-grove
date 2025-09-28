@@ -8,7 +8,7 @@
 ### Installation Process
 1. Apply damp proofing/waterproofing membrane to foundation walls after footings cure. This can be a coating or a peel-and-stick application to prevent moisture from passing through.
 2. Install minimum R-15 rigid foam insulation board against the damp-proofed wall.
-3. Install dimple board over the foam insulation.
+3. Install dimple board over the foam insulation. Dimple board shall only be installed below grade.
 4. Excavate trench alongside footing
 5. Install 2-inch drainage aggregate base in trench
 6. Place 4-inch perforated PVC pipe with filter sock on aggregate, top at or below footing level
