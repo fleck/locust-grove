@@ -1,4 +1,4 @@
-# Foundation Drainage System Installation
+# Foundation Drainage and Insulation System Installation
 
 ## System Overview
 - **Basement areas**: Require both interior and exterior drainage systems, each connected to separate sump pump basins.
@@ -6,15 +6,16 @@
 
 ## Exterior Foundation Drain System
 ### Installation Process
-1. Apply damp proofing/waterproofing membrane to foundation walls after footings cure. Damp proofing is a black, tar-like coating applied to the exterior of the foundation wall to prevent moisture from passing through.
-2. Install dimple board, a semi-rigid plastic membrane with raised dimples that creates an air gap between the foundation wall and the surrounding soil, allowing for drainage and moisture evaporation.
-3. Excavate trench alongside footing
-4. Install 2-inch drainage aggregate base in trench
-5. Place 4-inch perforated PVC pipe with filter sock on aggregate, top at or below footing level
-6. Maintain 1/8 inch per foot slope toward discharge point
-7. Backfill with drainage aggregate to 6 inches above footing, 12 inches from foundation wall
-8. Install non-woven geotextile filter fabric over aggregate with 12-inch overlaps
-9. Place 12-inch layer of native soil over fabric
+1. Apply damp proofing/waterproofing membrane to foundation walls after footings cure. This can be a coating or a peel-and-stick application to prevent moisture from passing through.
+2. Install minimum R-15 rigid foam insulation board against the damp-proofed wall.
+3. Install dimple board over the foam insulation.
+4. Excavate trench alongside footing
+5. Install 2-inch drainage aggregate base in trench
+6. Place 4-inch perforated PVC pipe with filter sock on aggregate, top at or below footing level
+7. Maintain 1/8 inch per foot slope toward discharge point
+8. Backfill with drainage aggregate to 6 inches above footing, 12 inches from foundation wall
+9. Install non-woven geotextile filter fabric over aggregate with 12-inch overlaps
+10. Place 12-inch layer of native soil over fabric
 
 ### Connections
 - **Basement areas**: Connect to exterior sump basin via solid PVC pipe
@@ -42,5 +43,6 @@
 - **Pipe**: 4-inch white perforated PVC (ASTM D2729) with filter sock; 4-inch solid PVC for discharge
 - **Aggregate**: Washed crushed stone, 3/4-inch to 1.5-inch diameter
 - **Filter Fabric**: Non-woven geotextile for soil filtration
-- **Waterproofing**: Trowel-applied or spray-on asphalt-based membrane for foundation walls
+- **Waterproofing**: Coating or peel-and-stick membrane for foundation walls.
+- **Insulation**: R-15 rigid foam board.
 - **Sump Equipment**: 24-inch diameter sealed basins with lockable covers; 1/3 HP submersible pumps
