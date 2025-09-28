@@ -2,10 +2,11 @@
 
 ### **Excavation and Footings**
 
-* **Frost Protection:** All exterior footings shall be placed on undisturbed soil with the bottom of the footing a minimum of **44 inches below the finished grade** to protect against frost heave. This depth should be verified with the local code official as it can vary based on specific site conditions.  
+* **Frost Protection:** All exterior footings shall be placed on undisturbed soil with the bottom of the footing a minimum of **44 inches below the finished grade** to protect against frost heave.
 * **Soil Bearing Capacity:** The design of all footings is based on an assumed soil bearing capacity of **2,000 pounds per square foot (psf)**.  
 * **Bearing Surface:** All footings are to be placed on solid, undisturbed ground. Any loose or unsuitable material must be excavated and replaced with compacted engineered fill as approved by the project engineer.  
 * **Site Drainage:** The finished grade shall be sloped away from the foundation on all sides to ensure positive drainage of surface water. Provide drainage solutions to prevent the accumulation of water and soil erosion near the footings.
+* **Staircase and Mudroom/Bathroom and Center Column** These footings shall match the finished slab height.
 
 ---
 
