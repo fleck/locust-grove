@@ -46,9 +46,9 @@
 
 **Garage Door Drainage:** The garage slab at the garage door opening shall be tapered away from the building to ensure positive drainage and prevent water infiltration.
 
-**Basement Slab Elevation:** The basement slab is **75 3/4 inches lower** than the garage slab.
+**Basement Slab Elevation:** The basement slab is **75 3/4 inches lower** than the garage slab. The finished top of the basement slab shall be **8 inches above the top of the footer**.
 
-**Slab Thickness:** The garage and basement concrete slabs shall be a minimum of **4 inches** thick.
+**Slab Thickness:** The basement and garage concrete slabs shall be a minimum of **4 inches** thick.
 
 **Basement Slab Insulation and Vapor Barrier:** The basement slab shall be placed over a minimum of **2 inches of XPS rigid insulation** and a **10 mil vapor barrier**.
 
