@@ -58,3 +58,10 @@
 * **Embedment:** A minimum of 7 inches of embedment into the poured concrete foundation is required.  
 * **Spacing:** Anchor bolts shall be spaced a maximum of **4 feet on-center**.  
 * **Placement:** Place one anchor bolt within 12 inches of each end of a sill plate section, but no closer than 3.5 inches from the end. A minimum of two (2) anchor bolts are required per individual sill plate section.
+
+#### **Door and Window Bucks**
+
+* **Material:** Door and window bucks shall be constructed from **2x pressure-treated lumber**.
+* **Sealant:** A **foam gasket** shall be glued to the buck to create a seal between the buck and the concrete.
+* **Fasteners:** **Ceramic-coated or other corrosion-resistant screws** shall be used for the mechanical connection to the concrete.
+	* **Installation:** For a strong mechanical bond, screws should be driven through the buck from the inside so the tips protrude 1.5-2 inches into the area where the concrete will be poured. This "porcupine" method embeds the fasteners directly into the wet concrete, creating a monolithic connection as it cures.
