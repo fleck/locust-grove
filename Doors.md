@@ -1,4 +1,4 @@
-# Door Schedule & Installation Notes
+# Door Notes
 
 ## Header Specifications
 
