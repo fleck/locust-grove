@@ -1,7 +1,7 @@
 # Electric Plan Specifications
 
 ## General Notes
-1. All electrical work must comply with the current National Electrical Code (NEC) and local building codes.
+1. All electrical work must comply with the National Electrical Code (NEC) and local building codes.
 2. Verify all device locations with owner/architect prior to rough-in.
 
 ## Wiring Requirements
