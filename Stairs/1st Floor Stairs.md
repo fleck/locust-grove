@@ -1,4 +1,3 @@
-# Stairs
 
 ## 1st Floor Stairs
 
@@ -6,7 +5,7 @@
 
 A horizontal beam that spans between a beam pocket in a main wall and a face mount hanger on the opposing pony wall.
 
-* **Hardware:** The beam is secured using **HU66 joist hangers** and **BC6 post caps** (or similar style connectors).
+* **Hardware:** The beam is secured using **HU66 joist hanger** and **BC6 post caps** (or similar style connectors).
 
 ---
 
