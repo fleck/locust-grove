@@ -66,6 +66,13 @@ The left stringer is supported by the pony wall underneath it.
 
 ---
 
-### **4. Vertical Support Walls**
+### **4. Right Stringer Support**
 
-See wall detail page for drawings of stair wall supports.
+* **Wall Connection:** The right stringer shall be connected to the wall every 16" using structural screws.
+* **Spacing:** 3/4" spacers should be used to leave room for skirt board.
+
+---
+
+### **5. Vertical Support Walls**
+
+See wall detail page for drawings of stair walls.
