@@ -60,6 +60,10 @@ The two middle stringers are attached with "saddle-style" blocks to receive the 
 
 The left stringer is supported by the pony wall underneath it.
 
+* **Apply Adhesive:** Lay a continuous 1/4" bead of polyurethane subfloor adhesive along the top plate of the pony wall.
+* **Position Stringer:** Place the stringer on the wall and verify that it is plumb and aligned with your floor layout marks.
+* **Select Fasteners:** Use 1/4" diameter structural wood screws (such as GRK RSS or Simpson SDWS) that are long enough to penetrate 2" into the stringer. Fasten at 12-inch intervals.
+
 ---
 
 ### **4. Vertical Support Walls**
