@@ -1,5 +1,7 @@
 ## **1st Floor Stairs**
 
+> **Note:** All dimensions are provisional and final dimensions shall be determined by contractor and meet all applicable codes.
+
 ### **1\. Dimensional Overview**
 
 * **Total Rise (Floor-to-Floor):** 135 7/8" (Note: Ensure the rough opening accounts for the finished floor heights).  
