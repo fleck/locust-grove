@@ -56,6 +56,12 @@ The two middle stringers are attached with "saddle-style" blocks to receive the 
 
 ---
 
-### **3\. Vertical Support Walls**
+### **3. Left Stringer Support**
+
+The left stringer is supported by the pony wall underneath it.
+
+---
+
+### **4. Vertical Support Walls**
 
 See wall detail page for drawings of stair wall supports.
