@@ -75,13 +75,13 @@ The left stringer is supported by the pony wall underneath it.
 
 ---
 
-### **5. Vertical Support Walls**
-
-See wall detail page for drawings of stair walls.
-
----
-
-### **6. Stair Header**
+### **5. Stair Header**
 
 * **Material:** 14" LVL on top of center wall. LVL shall be secured to wall and trusses behind it.
 * **Connection:** LSC or similar connector.
+
+---
+
+### **6. Vertical Support Walls**
+
+See wall detail page for drawings of stair walls.
