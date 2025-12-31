@@ -2,16 +2,16 @@
 
 > **Note:** All dimensions are provisional and final dimensions shall be determined by contractor and meet all applicable codes.
 
-### **1\. Dimensional Overview**
+### **1. Dimensional Overview**
 
 * **Total Rise (Floor-to-Floor):** 135 7/8" (Note: Ensure the rough opening accounts for the finished floor heights).  
 * **Total Run (Horizontal Length):** 172 1/8".  
-* **Number of Risers:** 18\.  
-* **Number of Treads:** 17\.  
-* **Staircase Angle:** 36.71^circ.  
+* **Number of Risers:** 18.  
+* **Number of Treads:** 17.  
+* **Staircase Angle:** 36.71°.  
 * **Clear Width:** 47".
 
-### **2\. Component Details**
+### **2. Component Details**
 
 * **Finished Riser Height:** 7 9/16".  
 * **Finished Tread Depth:** 10 1/8".  
@@ -41,7 +41,7 @@
 * **Tread Support:** Use construction adhesive and finish nails/screws to secure 1" treads to stringers to prevent squeaking.  
 * **Code Compliance:** Ensure the handrail height is between 34" and 38" measured vertically from the tread nosing.
 
-### **1\. Mid Stair Support Beam**
+### **1. Mid Stair Support Beam**
 
 A horizontal beam that spans between a beam pocket in a main wall and a face mount hanger on the opposing pony wall.
 
@@ -49,7 +49,7 @@ A horizontal beam that spans between a beam pocket in a main wall and a face mou
 
 ---
 
-### **2\. The Stringer Attachment Points**
+### **2. The Stringer Attachment Points**
 
 The two middle stringers are attached with "saddle-style" blocks to receive the stringers:
 
