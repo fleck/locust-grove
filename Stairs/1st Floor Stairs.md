@@ -31,10 +31,12 @@
 * *Calculation Check:* The bottom riser must be cut 5/8" shorter than the others to account for the first-floor finish. When the 1" tread is added, the total height from the subfloor will be 8 3/16", which results in a 7 9/16" step once the 5/8" finish floor is installed.
 
 ### **Stringer Layout**
-
+* **Count:** 4
 * **Stringer Material:** 11 7/8" LVL.  
 * **Rise/Run Cut:** The stringer should be scribed for a 7 9/16" rise and a 10 1/8" run.  
 * **Nosing:** Ensure the 1 1/8" nosing is accounted for when setting the horizontal depth of the tread material over the stringer run.
+* **Heel Block Notch:** Add a 1.5" high x 3.5" deep notch at the bottom of the stringer for a heel block.
+* **Heel Block Attachment:** Securely attach a 2x4 to the floor joists with glue and structural fasteners.
 
 ### **Structural Requirements**
 
