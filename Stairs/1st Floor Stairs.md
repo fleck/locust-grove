@@ -81,5 +81,5 @@ See wall detail page for drawings of stair walls.
 
 ### **6. Stair Header**
 
-* **Material:** 14" LVL.
+* **Material:** 14" LVL on top of center wall. LVL shall be secured to wall and trusses behind it.
 * **Connection:** LSC or similar connector.
